@@ -8,13 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		DB81684F2CE8CACF002BE45B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DB81684E2CE8CACF002BE45B /* README.md */; };
-		DB8168512CE8D127002BE45B /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = DB8168502CE8D127002BE45B /* demo.gif */; };
+		DB8168532CE8D41A002BE45B /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = DB8168522CE8D41A002BE45B /* demo.gif */; };
 		DBDBF8C92CE8BF1D007DC1D8 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = DBDBF8C82CE8BF1D007DC1D8 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		DB81684E2CE8CACF002BE45B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		DB8168502CE8D127002BE45B /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
+		DB8168522CE8D41A002BE45B /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		DBDBF8C82CE8BF1D007DC1D8 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		DBFC92882CE86AC50044B671 /* ScrollHeader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollHeader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -41,7 +41,7 @@
 		DBFC927F2CE86AC50044B671 = {
 			isa = PBXGroup;
 			children = (
-				DB8168502CE8D127002BE45B /* demo.gif */,
+				DB8168522CE8D41A002BE45B /* demo.gif */,
 				DB81684E2CE8CACF002BE45B /* README.md */,
 				DBDBF8C82CE8BF1D007DC1D8 /* .gitignore */,
 				DBFC92C52CE86B2A0044B671 /* ScrollHeader */,
@@ -121,7 +121,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB8168512CE8D127002BE45B /* demo.gif in Resources */,
+				DB8168532CE8D41A002BE45B /* demo.gif in Resources */,
 				DB81684F2CE8CACF002BE45B /* README.md in Resources */,
 				DBDBF8C92CE8BF1D007DC1D8 /* .gitignore in Resources */,
 			);
